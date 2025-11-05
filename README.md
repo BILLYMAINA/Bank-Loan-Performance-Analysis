@@ -14,6 +14,7 @@ The solution integrates:
 - Power BI data modeling and relationships  
 - Three interactive dashboards: **Summary**, **Overview**, and **Details**
 
+<img width="891" height="504" alt="Overview Dashboard" src="https://github.com/user-attachments/assets/c1d1372c-1bb4-4126-bdb6-3863d3bdec73" />
 ---
 
 ## Project Objectives
@@ -75,15 +76,14 @@ These insights support **risk management, lending optimization**, and **profitab
 - Displays top-level KPIs (Total Loans, Funded Amount, Received Amount, Avg Interest & DTI)
 - Highlights Good vs. Bad loan ratios and monthly performance comparison
 
-![Summary Dashboard](./reports/screenshots/summary_dashboard.png)
-
----
+<img width="895" height="503" alt="Summary Dashboard" src="https://github.com/user-attachments/assets/75345a20-7386-4f97-a2e0-b790abc61be9" />
 
 ### 2️⃣ Overview Dashboard
 - Visualizes loan trends across time, region, purpose, term, and ownership
 - Enables regional and demographic insights for better segmentation
 
-![Overview Dashboard](./reports/screenshots/overview_dashboard.png)
+<img width="891" height="504" alt="Overview Dashboard" src="https://github.com/user-attachments/assets/b50afca3-7963-4c63-acd1-a17d840f0044" />
+
 
 ---
 
@@ -91,7 +91,8 @@ These insights support **risk management, lending optimization**, and **profitab
 - Provides granular view with filters for loan grade, status, and borrower type
 - Enables in-depth exploration of individual loan performance
 
-![Details Dashboard](./reports/screenshots/details_dashboard.png)
+<img width="896" height="504" alt="Details Dashboard" src="https://github.com/user-attachments/assets/5377c5d6-6ad8-4135-b4db-69128053bd5d" />
+
 
 ---
 
@@ -123,6 +124,3 @@ This analysis helps financial institutions to:
 - Strengthen reporting transparency for business and compliance teams  
 
 ---
-
-## 📂 Repository Structure
-
