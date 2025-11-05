@@ -55,7 +55,7 @@ The solution integrates:
 | **Good Loan %** | `(Fully Paid + Current) / Total Loans` |
 | **Bad Loan %** | `(Charged Off) / Total Loans` |
 
-All queries are documented in [`/sql/Query_Documentation.md`](./sql/Query_Documentation.md)
+All queries are documented in [`/SQL Server/Query_Documentation.md`](./SQL Server/Query_Documentation.md)
 
 ---
 
@@ -100,7 +100,7 @@ These insights support **risk management, lending optimization**, and **profitab
 
 - Dataset: Simulated **Bank Loan Dataset** stored in SQL Server  
 - Data Fields: Loan ID, Loan Amount, Issue Date, Loan Status, Interest Rate, DTI, Term, Purpose, Employment Length, etc.  
-- Business Context: See [`/docs/Domain_Knowledge.md`](./docs/Domain_Knowledge.md) for the full explanation of banking processes, risk assessment, and credit lifecycle.
+- Business Context: See [`/Domain/Domain_Knowledge.md`](./Domain/Domain_Knowledge.md) for the full explanation of banking processes, risk assessment, and credit lifecycle.
 
 ---
 
