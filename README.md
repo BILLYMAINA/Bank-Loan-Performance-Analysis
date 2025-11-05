@@ -100,7 +100,7 @@ These insights support **risk management, lending optimization**, and **profitab
 
 - Dataset: Simulated **Bank Loan Dataset** stored in SQL Server  
 - Data Fields: Loan ID, Loan Amount, Issue Date, Loan Status, Interest Rate, DTI, Term, Purpose, Employment Length, etc.  
-- Business Context: See ![`/Domain/Domain_Knowledge.md`](Domain/Domain Knowledge.md) for the full explanation of banking processes, risk assessment, and credit lifecycle.
+- Business Context: See [Domain_Knowledge.md](https://github.com/BILLYMAINA/Bank-Loan-Performance-Analysis/blob/main/Domain/Domain%20Knowledge.md) for the full explanation of banking processes, risk assessment, and credit lifecycle.
 
 ---
 
